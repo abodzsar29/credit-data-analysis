@@ -1,4 +1,4 @@
-# SolaraNova Loan Risk Analysis Case Study
+# German Renewable Energy Loan Startup - Credit Risk Analysis Case Study
 
 **Author:** Andrew Bodzsar
 
